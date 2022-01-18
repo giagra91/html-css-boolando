@@ -1,0 +1,24 @@
+/* RESET */
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 95%;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.raw{
+    margin: 100px;
+}
+
+img{
+    width: 20%;
+}
+
+.img{
+    /* width: 100%; */
+}
