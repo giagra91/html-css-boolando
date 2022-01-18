@@ -18,7 +18,7 @@
 }
 
 .card{
-    width: 250px;
+    width: 150px;
     display: inline-block;
 }
 .img{
@@ -108,4 +108,9 @@
 
 .card:hover .first-image{
     display: none;
+}
+
+.up-card{
+    width: 290px;
+    display: inline-block;
 }
