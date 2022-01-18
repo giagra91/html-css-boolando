@@ -26,6 +26,10 @@
     z-index: 0;
 }
 
+.text-photo{
+    width: 200px;
+}
+
 .relative{
     position: relative;
 }
@@ -102,6 +106,6 @@
     z-index: 1;
 }
 
-.card:hover .img1{
+.card:hover .first-image{
     display: none;
 }
