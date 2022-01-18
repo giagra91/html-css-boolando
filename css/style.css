@@ -72,6 +72,15 @@
     z-index: 2
 }
 
+.heart:hover,
+.heart:active{
+    color: red;
+}
+
+.img:hover{
+    display: none;
+}
+
 .name-article{
     font-weight: 600;
 }
